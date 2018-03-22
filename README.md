@@ -2,7 +2,13 @@
 <center> <img src="./images/titlecard.png" style="width: 1000px;"/> </center>
 <center><b>Maciej Szul</b></center>
 
-<center> <img src="./images/mob.jpeg" style="width: 1000px;"/> </center>
+<center> <h3>BEST PROGRAMMING PRACTICES FOR OPEN SCIENCE (25 MAY, CUBRIC)</h3> </center>
+
+GW4 funded (yay!) workshop targets all students who use programming languages in their daily work (statistical analysis, numerical simulations, data processing, statistical modelling, experimental procedures). Experts and competent tutors will demonstrate practical solutions on how to make scientific code more accessible to other potential users and how to improve reproducibility of the results. The workshop will address new developments in programming workflow that can be applied across disciplines.
+
+Main topics: best porgramming practices, code sharing, collaboration, scientific writing, reference managing data sharing, reproducibility. (coffee and food)
+
+https://sciprogramming.wordpress.com/
 
 <center> <h3>Survey on knowledge and adoption of open research practises in the School of Psychology</h3></center>
 * 36% response rate among PGRs
@@ -12,6 +18,8 @@
 * 45.2% - lack of supporting infrastructure is a barrier
 * 45.2% - lack of time is a barrier
 
+
+<center> <img src="./images/mob.jpeg" style="width: 1000px;"/> </center>
 
 <center> <h3>OUTLINE:</h3> </center>
 * why should you care about open science?
@@ -36,6 +44,7 @@
 * Helps the standarisation of the field
 * Very likely to be free and widely available
 * More eyeballs
+* More ethical/transparent
 
 <center> <h3>How good programming practices can help you?</h3> </center>
 * saves you time!
@@ -45,15 +54,9 @@
 * more confidence in sharing the code
 * transferable skills
 
-<center> <h3>BEST PROGRAMMING PRACTICES FOR OPEN SCIENCE (25 MAY, CUBRIC)</h3> </center>
-
-GW4 funded (yay!) workshop targets all students who use programming languages in their daily work (statistical analysis, numerical simulations, data processing, statistical modelling, experimental procedures). Experts and competent tutors will demonstrate practical solutions on how to make scientific code more accessible to other potential users and how to improve reproducibility of the results. The workshop will address new developments in programming workflow that can be applied across disciplines.
-
-Main topics: best porgramming practices, code sharing, collaboration, scientific writing, reference managing data sharing, reproducibility. (coffee and food)
-
-https://sciprogramming.wordpress.com/
-
 <center> <img src="./images/casper_albers.png" style="height: 700px;"/> </center>
+
+Presentation is available on GitHub: https://github.com/maciekszul/open_software_open_science
 
 <center> <h3>OTHER SOURCES:</h3> </center>
 * http://sciencecodemanifesto.org/
